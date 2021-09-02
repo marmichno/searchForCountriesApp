@@ -1,5 +1,7 @@
 # Search for Countries App
 
+![searchCountries](https://user-images.githubusercontent.com/72525469/131825005-94c1f1ee-c302-4236-a4e9-13fed354b2c0.gif)
+
 ## About project
 
 Searchbar which dynamically downloads countries data from rest api.<br>
