@@ -23,7 +23,7 @@ API: https://restcountries.eu/
 And run those comands in project directory:
 ```sh
 git clone https://github.com/marmichno/searchForCountriesApp.git
-cd countries
+cd searchForCountriesApp
 npm install
 ```
 
